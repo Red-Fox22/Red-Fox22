@@ -1,3 +1,4 @@
 ### Hi there 👋🏻
+<img src='Hey!.gif'> </img>
 My dev name is Red Fox because... Well... I like foxes. <br>
-I'm a brazilian system dev student e some times i don't know if i want do programmation.
+I'm a Brazilian system dev student and sometimes I don't know if I want to do programmation.
