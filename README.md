@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 <img src='welcome.gif'> </img>
 <img src='about_me.gif'> </img>
-<h3>Memes Section</h1>
+##Memes Section
 <div>
 <img src='meme1.jpg' width='auto' height = '200px'> </img>
 <img src='meme2.jpg' width='auto' height = '200px'> </img>
