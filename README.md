@@ -10,4 +10,10 @@
 <img src='meme4.jpg' width='auto' height = '200px'> </img>
 <img src='meme5.png' width='auto' height = '200px'> </img>
 <img src='meme6.png' width='auto' height = '200px'> </img>
+  
+<img src='meme8.jpg' width='auto' height = '200px'> </img>
+<img src='meme9.jpg' width='auto' height = '200px'> </img>
+<img src='meme10.png' width='auto' height = '200px'> </img>
+<img src='meme11.png' width='auto' height = '200px'> </img>
+<img src='meme12.jpeg' width='auto' height = '200px'> </img>
 </div>
